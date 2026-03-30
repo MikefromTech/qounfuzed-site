@@ -155,7 +155,7 @@ const Index = () => {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in">
             <a
-              href="https://wa.me/263773135457"
+              href="https://wa.me/263776275440"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-primary inline-flex items-center gap-2 justify-center text-base pulse-glow"
@@ -414,7 +414,7 @@ const Index = () => {
                     <p className="font-condensed font-bold text-foreground tracking-wide">{item.name}</p>
                     
                     <a
-                      href={`https://wa.me/263773135457?text=${encodeURIComponent(item.msg)}`}
+                      href={`https://wa.me/27846561457?text=${encodeURIComponent(item.msg)}`}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="mt-3 btn-primary text-xs w-full text-center block"
@@ -498,7 +498,7 @@ const Index = () => {
 
                 <div className="space-y-4">
                   <a
-                    href="https://wa.me/263773135457"
+                    href="https://wa.me/263776275440"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-4 p-4 card-surface group hover:border-primary transition-all"
@@ -506,7 +506,7 @@ const Index = () => {
                     <MessageCircle className="text-primary" size={24} />
                     <div>
                       <p className="font-condensed font-bold text-foreground tracking-wide">WhatsApp</p>
-                      <p className="text-muted-foreground text-sm">+263 773 135 457</p>
+                      <p className="text-muted-foreground text-sm">+263 77 627 5440</p>
                     </div>
                     <ExternalLink size={16} className="ml-auto text-muted-foreground group-hover:text-primary transition-colors" />
                   </a>
@@ -553,7 +553,7 @@ const Index = () => {
                 >
                   <p className="font-display text-2xl text-foreground">Ready to book?</p>
                   <a
-                    href="https://wa.me/263773135457"
+                    href="https://wa.me/263776275440"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="btn-primary mt-3 inline-flex items-center gap-2 text-xs pulse-glow"

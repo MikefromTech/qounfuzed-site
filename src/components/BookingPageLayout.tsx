@@ -73,7 +73,7 @@ const BookingPageLayout = ({
             {/* CTA */}
             <div className="mt-12 flex flex-col sm:flex-row gap-4">
               <a
-                href="https://wa.me/263773135457"
+                href="https://wa.me/263776275440"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary inline-flex items-center gap-2 justify-center pulse-glow"
@@ -111,12 +111,12 @@ const BookingPageLayout = ({
                 Contact us via WhatsApp for quick responses and booking confirmations.
               </p>
               <a
-                href="https://wa.me/263773135457"
+                href="https://wa.me/263776275440"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary font-condensed font-semibold text-sm hover:underline mt-3 inline-block"
               >
-                +263 773 135 457 →
+                +263 77 627 5440 →
               </a>
             </div>
           </div>

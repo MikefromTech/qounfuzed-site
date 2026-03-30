@@ -55,13 +55,13 @@ const Footer = () => {
             <div className="space-y-3 text-sm text-muted-foreground">
               <p>
                 <span className="text-primary font-condensed font-semibold">WhatsApp:</span>{" "}
-                <a href="https://wa.me/263773135457" className="hover:text-primary transition-colors">
-                  +263 773 135 457
+                <a href="https://wa.me/263776275440" className="hover:text-primary transition-colors">
+                  +263 77 627 5440
                 </a>
               </p>
               <p>
                 <span className="text-primary font-condensed font-semibold">Booking:</span>{" "}
-                <a href="https://wa.me/263773135457" className="hover:text-primary transition-colors">
+                <a href="https://wa.me/263776275440" className="hover:text-primary transition-colors">
                   Via WhatsApp
                 </a>
               </p>

@@ -56,7 +56,7 @@ const Navbar = () => {
 
         {/* Book Now CTA */}
         <a
-          href="https://wa.me/263773135457"
+          href="https://wa.me/263776275440"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden lg:block btn-primary text-xs"
@@ -90,7 +90,7 @@ const Navbar = () => {
             ))}
             <li>
               <a
-                href="https://wa.me/263773135457"
+                href="https://wa.me/263776275440"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn-primary inline-block text-center text-xs mt-2"
