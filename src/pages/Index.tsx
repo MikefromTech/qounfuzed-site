@@ -323,8 +323,8 @@ const Index = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
            {[
-  { id: "8QSQDCxzj9E", title: "Stupid I Like It" },
-  { id: "65iRBG4mhJ0", title: "Qounfuzed – XYZ Feature" },
+  { id: "8QSQDCxzj9E", title: "Stop It I Like It" },
+  { id: "65iRBG4mhJ0", title: "Qounfuzed – XYZ Ft Winky D" },
 ].map((video, i) => (
               <ScrollReveal key={video.id} delay={i * 150}>
                 <div className="card-surface overflow-hidden">
